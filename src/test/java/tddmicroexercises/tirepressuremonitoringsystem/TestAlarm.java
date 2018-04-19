@@ -3,7 +3,6 @@ package tddmicroexercises.tirepressuremonitoringsystem;
 
 import org.junit.*;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 
 import static org.junit.Assert.*;

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0ff5c0f-b705-46c0-be54-28b15cb92082" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tddmicroexercises/tirepressuremonitoringsystem/SensorFake.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tddmicroexercises/tirepressuremonitoringsystem/TestAlarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tddmicroexercises/tirepressuremonitoringsystem/TestAlarm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/TirePressureKata/tddmicroexercises/tirepressuremonitoringsystem/TestAlarm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/TirePressureKata/tddmicroexercises/tirepressuremonitoringsystem/TestAlarm.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +16,8 @@
       <file leaf-file-name="TestAlarm.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/tddmicroexercises/tirepressuremonitoringsystem/TestAlarm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="121" column="46" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1356">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -44,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/tddmicroexercises/tirepressuremonitoringsystem/Alarm.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="52" lean-forward="true" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+              <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -53,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/tddmicroexercises/tirepressuremonitoringsystem/Sensor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -93,8 +88,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-961" />
-    <option name="y" value="-968" />
+    <option name="x" value="-663" />
+    <option name="y" value="-650" />
     <option name="width" value="1680" />
     <option name="height" value="947" />
   </component>
@@ -278,9 +273,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestAlarm - 2018.04.19 at 11h 03m 18s.xml">
-      <configuration name="TestAlarm" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestAlarm - 2018.04.19 at 11h 06m 21s.xml">
       <configuration name="TestAlarm" configurationId="JUnit" />
     </history-entry>
@@ -308,9 +300,12 @@
     <history-entry file="TestAlarm - 2018.04.19 at 11h 30m 19s.xml">
       <configuration name="TestAlarm" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestAlarm - 2018.04.19 at 11h 31m 04s.xml">
+      <configuration name="TestAlarm" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-961" y="-968" width="1680" height="947" extended-state="0" />
+    <frame x="-663" y="-650" width="1680" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -358,14 +353,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/tddmicroexercises/tirepressuremonitoringsystem/Sensor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tddmicroexercises/tirepressuremonitoringsystem/Alarm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="52" lean-forward="true" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -382,11 +377,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tddmicroexercises/tirepressuremonitoringsystem/TestAlarm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="121" column="46" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1356">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
